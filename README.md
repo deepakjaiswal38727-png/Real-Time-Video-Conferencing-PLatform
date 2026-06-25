@@ -7,7 +7,7 @@ A scalable, low-latency video conferencing application for real-time communicati
 * **Chat:** Integrated instant messaging during live calls.
 * **Responsive UI:** Clean and intuitive user interface.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js
 * **Protocols:** WebRTC
