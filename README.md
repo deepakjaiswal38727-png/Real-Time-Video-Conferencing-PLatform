@@ -2,7 +2,7 @@
 
 A scalable, low-latency video conferencing application for real-time communication.
 
-## 🚀 Features
+## Features
 * **Video & Audio:** High-quality, real-time media streaming.
 * **Chat:** Integrated instant messaging during live calls.
 * **Responsive UI:** Clean and intuitive user interface.
