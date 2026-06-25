@@ -10,4 +10,4 @@ A scalable, low-latency video conferencing application for real-time communicati
 ## 🛠️ Tech Stack
 * **Frontend:** HTML, CSS, JavaScript
 * **Backend:** Node.js
-* **Protocols:** WebRTC, WebSockets
+* **Protocols:** WebRTC
